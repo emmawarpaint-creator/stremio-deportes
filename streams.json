@@ -26,12 +26,16 @@
       "description": "Partido de Liga MX",
       "genres": ["Liga MX", "Fútbol"],
       "streams": [
-        { "url": "https://a2lja3m.fubo18.com/universo/mono.m3u8?token=9a79e1ad0d8c0a1bdc5ef4f76c92536cac43fbce-20-1792555913-1792537913", "label": "HD 1080p",
+        { "url": "https://a2lja3m.fubo18.com/universo/mono.m3u8?token=9a79e1ad0d8c0a1bdc5ef4f76c92536cac43fbce-20-1792555913-1792537913", "label": "Opción 1",
         "headers": {
           "Referer": "https://la18hd.su/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
         },
-        { "url": "", "label": "Opción 2" },
+        { "url": "https://dglvz29s.fubo18.com/universo/mono.m3u8?token=e7b29c7c4cb3d518d048ebfa8437350b6db9b39e-40-1792557271-1792539271", "label": "Opción 2",
+        "headres": {
+          "Referer": "https://la18hd.su/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+        },
         { "externalUrl": "", "label": "Sitio oficial" }
       ]
     },
