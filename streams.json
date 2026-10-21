@@ -10,13 +10,21 @@
       ]
     },
     {
-      "id": "champions-1",
-      "name": "Champions League 1",
+      "id": "ESPN-ARG",
+      "name": "ESPN ARG",
       "description": "Partido de Champions League",
       "genres": ["Champions League", "Fútbol"],
       "streams": [
-        { "url": "", "label": "HD 1080p" },
-        { "url": "", "label": "Opción 2" },
+        { "url": "https://bmf0aw9u.fubo18.com/espn/mono.m3u8?token=5484d55486acf4bbb988eb7ab1cfb8b6dfcb0efd-bf-1792558958-1792540958", "label": "Opción 1",
+        "headers": {
+          "Referer": "https://la18hd.su/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+        }},
+        { "url": "https://yxdlc29tzq.fubo18.com/espn/mono.m3u8?token=3aab6b904a0b8d9bdb6f229022ed439baa61293a-d3-1792559257-1792541257", "label": "Opción 2",
+        "headers": {
+          "Referer": "https://la18hd.su/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+        },
         { "externalUrl": "", "label": "Sitio oficial" }
       ]
     },
@@ -26,13 +34,8 @@
       "description": "Partido de Liga MX",
       "genres": ["Liga MX", "Fútbol"],
       "streams": [
-        { "url": "https://b2zmawnpyww.fubo18.com/universo/mono.m3u8?token=449d43e6c5c274c3cc7d56289021ea8c193827b4-1d-1792557987-1792539987", "label": "Opción 1",
-        "headers": {
-          "Referer": "https://la18hd.su/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
-        },
         { "url": "https://dglvz29s.fubo18.com/universo/mono.m3u8?token=e7b29c7c4cb3d518d048ebfa8437350b6db9b39e-40-1792557271-1792539271", "label": "Opción 2",
-        "headres": {
+        "headers": {
           "Referer": "https://la18hd.su/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
         },
