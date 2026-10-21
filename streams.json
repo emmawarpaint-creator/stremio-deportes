@@ -15,15 +15,15 @@
       "description": "Partido de Champions League",
       "genres": ["Champions League", "Fútbol"],
       "streams": [
-        { "url": "https://bmf0aw9u.fubo18.com/espn/mono.m3u8?token=5484d55486acf4bbb988eb7ab1cfb8b6dfcb0efd-bf-1792558958-1792540958", "label": "Opción 1",
+        { "url": "https://b2zmawnpyww.fubo18.com/espn/mono.m3u8?token=10490f5f685e2c194ce0b2f22547f9d0b6a34857-c6-1792559890-1792541890", "label": "Opción 1",
         "headers": {
           "Referer": "https://la18hd.su/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
         }},
-        { "url": "https://yxdlc29tzq.fubo18.com/espn/mono.m3u8?token=3aab6b904a0b8d9bdb6f229022ed439baa61293a-d3-1792559257-1792541257", "label": "Opción 2",
+        { "url": "https://b2zmawnpyww.fubo18.com/espn/mono.m3u8?token=10490f5f685e2c194ce0b2f22547f9d0b6a34857-c6-1792559890-1792541890", "label": "Opción 2",
         "headers": {
           "Referer": "https://la18hd.su/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.3"}
         },
         { "externalUrl": "", "label": "Sitio oficial" }
       ]
@@ -34,7 +34,7 @@
       "description": "Partido de Liga MX",
       "genres": ["Liga MX", "Fútbol"],
       "streams": [
-        { "url": "https://dglvz29s.fubo18.com/universo/mono.m3u8?token=e7b29c7c4cb3d518d048ebfa8437350b6db9b39e-40-1792557271-1792539271", "label": "Opción 2",
+        { "url": "https://dglvz29s.fubo18.com/universo/mono.m3u8?token=59a0162367c6a11f791a871896352fa6a99a76b7-6f-1792560367-1792542367", "label": "Opción 1",
         "headers": {
           "Referer": "https://la18hd.su/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
