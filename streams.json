@@ -38,11 +38,11 @@
         "headers": {
           "Referer": "https://la18hd.su/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
-        }
+        },
         { "url": "https://yxdlc29tzq.fubo18.com/universo/mono.m3u8?token=00631e6eed4b60ed3680d85ee69bf0e9a8fb9fb3-61-1792562115-1792544115", "label": "Opción 2",
           "headers": {
             "Referer": "https://la18hd.su/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}}
         { "externalUrl": "", "label": "Sitio oficial" }
       ]
     },
